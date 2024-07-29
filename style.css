@@ -374,6 +374,7 @@
   }
   .part{
     display: flex;
+    gap: 3.5rem;
   }
   #img4{
     height: 100px;
