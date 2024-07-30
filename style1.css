@@ -911,7 +911,7 @@
     }
   }
   
-  @media (max-width: 768px) {
+  @media (max-width: 600px) {
     .header .search-form {
       width: 90%;
     }
